@@ -1,0 +1,11 @@
+C:\Users\chans\source\repos\test\gittest\bin\Debug\netcoreapp2.1\gittest.deps.json
+C:\Users\chans\source\repos\test\gittest\bin\Debug\netcoreapp2.1\gittest.runtimeconfig.json
+C:\Users\chans\source\repos\test\gittest\bin\Debug\netcoreapp2.1\gittest.runtimeconfig.dev.json
+C:\Users\chans\source\repos\test\gittest\bin\Debug\netcoreapp2.1\gittest.dll
+C:\Users\chans\source\repos\test\gittest\bin\Debug\netcoreapp2.1\gittest.pdb
+C:\Users\chans\source\repos\test\gittest\obj\Debug\netcoreapp2.1\gittest.csprojAssemblyReference.cache
+C:\Users\chans\source\repos\test\gittest\obj\Debug\netcoreapp2.1\gittest.csproj.CoreCompileInputs.cache
+C:\Users\chans\source\repos\test\gittest\obj\Debug\netcoreapp2.1\gittest.AssemblyInfoInputs.cache
+C:\Users\chans\source\repos\test\gittest\obj\Debug\netcoreapp2.1\gittest.AssemblyInfo.cs
+C:\Users\chans\source\repos\test\gittest\obj\Debug\netcoreapp2.1\gittest.dll
+C:\Users\chans\source\repos\test\gittest\obj\Debug\netcoreapp2.1\gittest.pdb
